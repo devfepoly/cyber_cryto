@@ -1,0 +1,15 @@
+* {
+    background-color:#151937;
+    color: white;
+}
+
+.text-gradient{
+    background-image: linear-gradient(to right, red, #3b82f6);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.btn-trading{
+    background-image: linear-gradient(to right, red, #3b82f6);
+    padding: 2rem 5rem;
+    border-radius: 30px;
+}
